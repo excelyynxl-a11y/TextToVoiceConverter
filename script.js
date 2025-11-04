@@ -22,7 +22,7 @@ document.querySelector("button").addEventListener("click", () => {
     window.speechSynthesis.speak(speech);
 });
 
-document.querySelector("button").addEventListener("keyup", function(event){
+document.querySelector("textarea").addEventListener("keyup", function(event){
     if (event.key === "Enter"){
         event.preventDefault();
         document.querySelector("button").click();
