@@ -26,6 +26,10 @@ Users can type or paste any text, select a voice, and listen to it instantly —
 - sets chosen voice 
 - calls speechSynthesis.speak() to speak!
 
+---
+## 🔗 Deployed on GitPages
+🖇️[Check out my TextToVoice Converter here!](https://excelyynxl-a11y.github.io/TextToVoiceConverter/)
+
 ## 👧 Thank you so much:
 🎥 GreatStack (https://youtu.be/3oDNqHZ7UKY?si=TiLBK4SZlNY7obeP)
 
